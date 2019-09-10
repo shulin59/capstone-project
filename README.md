@@ -1,6 +1,6 @@
 # Capstone-project
 
-#Kind Attention !!
+# Kind Attention !!
 
 plz visit https://nbviewer.jupyter.org and copy-paste the following link to see my notebook published on github.
 
